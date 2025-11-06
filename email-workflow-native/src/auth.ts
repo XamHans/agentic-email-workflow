@@ -1,10 +1,11 @@
 // src/auth.ts
 import { promises as fs } from 'fs';
 import { google } from 'googleapis';
+import * as path from 'path';
 import logger from './logger';
 
-const TOKEN_PATH = '../token.json';
-const CREDENTIALS_PATH = '../credentials.json'; // Store your client credentials here
+const TOKEN_PATH = path.join(__dirname, '..', 'token.json');
+const CREDENTIALS_PATH = path.join(__dirname, '..', 'credentials.json'); // Store your client credentials here
 
 export async function getAuthenticatedClient() {
   try {

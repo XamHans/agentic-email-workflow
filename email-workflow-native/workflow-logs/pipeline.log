@@ -1,0 +1,1445 @@
+
+-------------- STEP: fetchCalendarEvents --------------
+[TIME] 2025-10-27T12:37:33.347Z
+[INPUT] undefined
+
+
+[OUTPUT] [
+  {
+    "id": "jcsg07j84pc3cn5c6cqp6acicc",
+    "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-27T14:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-27T16:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+    "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-28T14:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-28T16:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "7bml22ed266peua9tqn60v1p1h",
+    "summary": "Webinar: Why MCP Gateways Are Critical to AI Deployments",
+    "description": "<p>Why MCP Gateways Are Critical to AI Deployments</p><p>October 28, 12:00-12:45 PM (EST)</p><p><br></p><p><strong>Join Webinar:</strong> https://us02web.zoom.us/j/86975931741?pwd=tXYW621wcjC1SrjILaYsyEIiQ03Mrs.1</p><p><strong>Meeting ID</strong>: 869 7593 1741</p><p><strong>Passcode:</strong> 969669</p><p><br></p><p>In this webinar, MCP Manager CEO, <a href=\"https://www.linkedin.com/in/myaroshefsky/\" rel=\"noopener noreferrer\" target=\"_blank\">Mike Yaroshefsky</a> will show you what makes MCP gateways so critical for deploying AI agents that can access external tools, capabilities, and context using MCP.</p><p><br></p><p><a href=\"https://mcpmanager.ai/resources/events/gateway-webinar/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent;\">Copy &amp; Share Registration Link</a></p>",
+    "start": {
+      "dateTime": "2025-10-28T17:00:00+01:00",
+      "timeZone": "America/New_York"
+    },
+    "end": {
+      "dateTime": "2025-10-28T17:45:00+01:00",
+      "timeZone": "America/New_York"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=N2JtbDIyZWQyNjZwZXVhOXRxbjYwdjFwMWggbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "bhhma9mvagr0fns9s4henpjieo_20251028T160000Z",
+    "summary": "Essen kochen für Jessi",
+    "start": {
+      "dateTime": "2025-10-28T17:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-28T18:30:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YmhobWE5bXZhZ3IwZm5zOXM0aGVucGppZW9fMjAyNTEwMjhUMTYwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  },
+  {
+    "id": "0j7bf4d1krbd7pn6soirkrcit0",
+    "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-29T15:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-29T17:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "c9hjec1ncos38b9i68oj0b9k6di3cb9p61j66bb6cgp3ioj474rjedj16o_20251030T101700Z",
+    "summary": "vocki Geburt stag",
+    "start": {
+      "dateTime": "2025-10-30T11:17:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-30T12:17:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YzloamVjMW5jb3MzOGI5aTY4b2owYjlrNmRpM2NiOXA2MWo2NmJiNmNncDNpb2o0NzRyamVkajE2b18yMDI1MTAzMFQxMDE3MDBaIG11ZWxsZXJqb2hhbm5lczkzQG0"
+  },
+  {
+    "id": "hn3sgl41t7uv7m48n4ss0e7s0g_20251031T110000Z",
+    "summary": "Sport",
+    "description": "Self care",
+    "start": {
+      "dateTime": "2025-10-31T12:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-31T14:55:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=aG4zc2dsNDF0N3V2N200OG40c3MwZTdzMGdfMjAyNTEwMzFUMTEwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  },
+  {
+    "id": "bhhma9mvagr0fns9s4henpjieo_20251104T160000Z",
+    "summary": "Essen kochen für Jessi",
+    "start": {
+      "dateTime": "2025-11-04T17:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-11-04T18:30:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YmhobWE5bXZhZ3IwZm5zOXM0aGVucGppZW9fMjAyNTExMDRUMTYwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  }
+]
+-------------- END STEP: fetchCalendarEvents (492ms) --------------
+
+
+-------------- STEP: selectYouTubeShortEvents --------------
+[TIME] 2025-10-27T12:37:33.852Z
+[INPUT] [
+  {
+    "id": "jcsg07j84pc3cn5c6cqp6acicc",
+    "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-27T14:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-27T16:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+    "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-28T14:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-28T16:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "7bml22ed266peua9tqn60v1p1h",
+    "summary": "Webinar: Why MCP Gateways Are Critical to AI Deployments",
+    "description": "<p>Why MCP Gateways Are Critical to AI Deployments</p><p>October 28, 12:00-12:45 PM (EST)</p><p><br></p><p><strong>Join Webinar:</strong> https://us02web.zoom.us/j/86975931741?pwd=tXYW621wcjC1SrjILaYsyEIiQ03Mrs.1</p><p><strong>Meeting ID</strong>: 869 7593 1741</p><p><strong>Passcode:</strong> 969669</p><p><br></p><p>In this webinar, MCP Manager CEO, <a href=\"https://www.linkedin.com/in/myaroshefsky/\" rel=\"noopener noreferrer\" target=\"_blank\">Mike Yaroshefsky</a> will show you what makes MCP gateways so critical for deploying AI agents that can access external tools, capabilities, and context using MCP.</p><p><br></p><p><a href=\"https://mcpmanager.ai/resources/events/gateway-webinar/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent;\">Copy &amp; Share Registration Link</a></p>",
+    "start": {
+      "dateTime": "2025-10-28T17:00:00+01:00",
+      "timeZone": "America/New_York"
+    },
+    "end": {
+      "dateTime": "2025-10-28T17:45:00+01:00",
+      "timeZone": "America/New_York"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=N2JtbDIyZWQyNjZwZXVhOXRxbjYwdjFwMWggbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "bhhma9mvagr0fns9s4henpjieo_20251028T160000Z",
+    "summary": "Essen kochen für Jessi",
+    "start": {
+      "dateTime": "2025-10-28T17:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-28T18:30:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YmhobWE5bXZhZ3IwZm5zOXM0aGVucGppZW9fMjAyNTEwMjhUMTYwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  },
+  {
+    "id": "0j7bf4d1krbd7pn6soirkrcit0",
+    "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+    "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "start": {
+      "dateTime": "2025-10-29T15:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+      "dateTime": "2025-10-29T17:00:00+01:00",
+      "timeZone": "America/Los_Angeles"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+  },
+  {
+    "id": "c9hjec1ncos38b9i68oj0b9k6di3cb9p61j66bb6cgp3ioj474rjedj16o_20251030T101700Z",
+    "summary": "vocki Geburt stag",
+    "start": {
+      "dateTime": "2025-10-30T11:17:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-30T12:17:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YzloamVjMW5jb3MzOGI5aTY4b2owYjlrNmRpM2NiOXA2MWo2NmJiNmNncDNpb2o0NzRyamVkajE2b18yMDI1MTAzMFQxMDE3MDBaIG11ZWxsZXJqb2hhbm5lczkzQG0"
+  },
+  {
+    "id": "hn3sgl41t7uv7m48n4ss0e7s0g_20251031T110000Z",
+    "summary": "Sport",
+    "description": "Self care",
+    "start": {
+      "dateTime": "2025-10-31T12:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-10-31T14:55:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=aG4zc2dsNDF0N3V2N200OG40c3MwZTdzMGdfMjAyNTEwMzFUMTEwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  },
+  {
+    "id": "bhhma9mvagr0fns9s4henpjieo_20251104T160000Z",
+    "summary": "Essen kochen für Jessi",
+    "start": {
+      "dateTime": "2025-11-04T17:00:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2025-11-04T18:30:00+01:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "htmlLink": "https://www.google.com/calendar/event?eid=YmhobWE5bXZhZ3IwZm5zOXM0aGVucGppZW9fMjAyNTExMDRUMTYwMDAwWiBtdWVsbGVyam9oYW5uZXM5M0Bt"
+  }
+]
+
+
+[OUTPUT] [
+  {
+    "event": {
+      "id": "jcsg07j84pc3cn5c6cqp6acicc",
+      "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-27T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-27T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "contentType": "YouTube Short"
+  },
+  {
+    "event": {
+      "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+      "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-28T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-28T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "contentType": "YouTube Short"
+  },
+  {
+    "event": {
+      "id": "0j7bf4d1krbd7pn6soirkrcit0",
+      "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-29T15:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-29T17:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Build Smarter AI Agents with Skills",
+    "contentType": "YouTube Short"
+  }
+]
+-------------- END STEP: selectYouTubeShortEvents (1ms) --------------
+
+
+-------------- STEP: researchAndGenerateScripts --------------
+[TIME] 2025-10-27T12:37:33.853Z
+[INPUT] [
+  {
+    "event": {
+      "id": "jcsg07j84pc3cn5c6cqp6acicc",
+      "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-27T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-27T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "contentType": "YouTube Short"
+  },
+  {
+    "event": {
+      "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+      "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-28T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-28T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "contentType": "YouTube Short"
+  },
+  {
+    "event": {
+      "id": "0j7bf4d1krbd7pn6soirkrcit0",
+      "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-29T15:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-29T17:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Build Smarter AI Agents with Skills",
+    "contentType": "YouTube Short"
+  }
+]
+
+
+[OUTPUT] [
+  {
+    "event": {
+      "id": "jcsg07j84pc3cn5c6cqp6acicc",
+      "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-27T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-27T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    }
+  },
+  {
+    "event": {
+      "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+      "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-28T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-28T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    }
+  },
+  {
+    "event": {
+      "id": "0j7bf4d1krbd7pn6soirkrcit0",
+      "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-29T15:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-29T17:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    }
+  }
+]
+-------------- END STEP: researchAndGenerateScripts (33705ms) --------------
+
+
+-------------- STEP: updateCalendarEvents --------------
+[TIME] 2025-10-27T12:38:07.560Z
+[INPUT] [
+  {
+    "event": {
+      "id": "jcsg07j84pc3cn5c6cqp6acicc",
+      "summary": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nSecure Your AI: Protect Against Tool Poisoning\n\nDiscover the invisible threats of tool poisoning in AI development and how they can compromise sensitive data. This topic is critical for anyone working with AI agents, making it both urgent and valuable to understand.\n\n🔗 https://labs.snyk.io/resources/detect-tool-poisoning-mcp-server-security/\n\n━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-27T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-27T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    }
+  },
+  {
+    "event": {
+      "id": "l5m7ij5blu8que5s1ff9a8ttqg",
+      "summary": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nClaude Code: Revolutionize Your Coding Workflow\n\nExplore the capabilities of Claude Code, a new web interface that allows developers to run multiple coding tasks simultaneously. This topic has the potential to engage viewers looking for efficiency in programming.\n\n🔗 https://www.anthropic.com/news/claude-code-on-the-web\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-28T14:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-28T16:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    }
+  },
+  {
+    "event": {
+      "id": "0j7bf4d1krbd7pn6soirkrcit0",
+      "summary": "YouTube Script: Build Smarter AI Agents with Skills",
+      "description": "ORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nORIGINAL EVENT NOTES:\nBuild Smarter AI Agents with Skills\n\nLearn how to create reusable 'Skills' for AI agents that save time and enhance productivity. This innovative concept allows developers to package domain expertise, making it relatable and practical for a wide audience.\n\n🔗 https://www.anthropic.com/news/skills\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "start": {
+        "dateTime": "2025-10-29T15:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "end": {
+        "dateTime": "2025-10-29T17:00:00+01:00",
+        "timeZone": "America/Los_Angeles"
+      },
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ"
+    },
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    }
+  }
+]
+
+
+[OUTPUT] [
+  {
+    "eventTitle": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "eventDate": "2025-10-27T14:00:00+01:00",
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "eventDate": "2025-10-28T14:00:00+01:00",
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Build Smarter AI Agents with Skills",
+    "eventDate": "2025-10-29T15:00:00+01:00",
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  }
+]
+-------------- END STEP: updateCalendarEvents (2240ms) --------------
+
+
+-------------- STEP: sendSummaryEmail --------------
+[TIME] 2025-10-27T12:38:09.801Z
+[INPUT] [
+  {
+    "eventTitle": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "eventDate": "2025-10-27T14:00:00+01:00",
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "eventDate": "2025-10-28T14:00:00+01:00",
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Build Smarter AI Agents with Skills",
+    "eventDate": "2025-10-29T15:00:00+01:00",
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  }
+]
+
+
+[OUTPUT] [
+  {
+    "eventTitle": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "eventDate": "2025-10-27T14:00:00+01:00",
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "eventDate": "2025-10-28T14:00:00+01:00",
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Build Smarter AI Agents with Skills",
+    "eventDate": "2025-10-29T15:00:00+01:00",
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  }
+]
+-------------- END STEP: sendSummaryEmail (646ms) --------------
+
+
+-------------- STEP: complete --------------
+[TIME] 2025-10-27T12:38:10.448Z
+[INPUT] [
+  {
+    "eventTitle": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "eventDate": "2025-10-27T14:00:00+01:00",
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "eventDate": "2025-10-28T14:00:00+01:00",
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Build Smarter AI Agents with Skills",
+    "eventDate": "2025-10-29T15:00:00+01:00",
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  }
+]
+
+
+[OUTPUT] [
+  {
+    "eventTitle": "YouTube Script: Secure Your AI: Protect Against Tool Poisoning",
+    "eventDate": "2025-10-27T14:00:00+01:00",
+    "topic": "Secure Your AI: Protect Against Tool Poisoning",
+    "script": {
+      "title": "How to Protect Your AI from Tool Poisoning",
+      "mainConcept": "Using MCP-Scan to detect tool poisoning in AI applications.",
+      "hook": "Is your AI tool at risk of poisoning? Let’s secure it!",
+      "cta": "Link in bio for the full article and all the code examples.",
+      "hashtags": [
+        "#AIsecurity",
+        "#ToolPoisoning",
+        "#MCPscan",
+        "#Cybersecurity"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "MCP servers are becoming essential in AI development, but they can pose a big security risk.",
+          "bRoll": "Close-up of a code snippet showing an MCP server setup."
+        },
+        {
+          "sentence": "Tool poisoning attacks exploit vulnerabilities in these servers.",
+          "bRoll": "Screen recording highlighting the MCP server tool descriptions."
+        },
+        {
+          "sentence": "One example involves injecting commands into tool descriptions.",
+          "bRoll": "Split screen with ‘Injecting Commands’ written on one side and relevant code snippets on the other."
+        },
+        {
+          "sentence": "To detect these threats, use Snyk's open-source MCP-Scan tool.",
+          "bRoll": "Text overlay of the MCP-Scan logo and a terminal command being executed."
+        },
+        {
+          "sentence": "Simply run MCP-Scan, and it will report any vulnerabilities.",
+          "bRoll": "Quick cuts showing the scanning process in action."
+        },
+        {
+          "sentence": "This tool scans multiple configurations, making it easy to secure your environment.",
+          "bRoll": "A visual of a dashboard displaying scanning results with flagged vulnerabilities."
+        },
+        {
+          "sentence": "Awareness is your best defense against tool poisoning!",
+          "bRoll": "Dramatic zoom-in on the phrase ‘Awareness = Protection’ over relevant visuals from the article."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=amNzZzA3ajg0cGMzY241YzZjcXA2YWNpY2MgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Claude Code: Revolutionize Your Coding Workflow",
+    "eventDate": "2025-10-28T14:00:00+01:00",
+    "topic": "Claude Code: Revolutionize Your Coding Workflow",
+    "script": {
+      "title": "Transform Your Coding with Claude Code on the Web!",
+      "mainConcept": "Claude Code allows you to delegate coding tasks from your browser, running them in isolated environments.",
+      "hook": "Tired of coding challenges slowing you down? Meet Claude Code on the web!",
+      "cta": "Visit claude.com/code to start streamlining your coding tasks today!",
+      "hashtags": [
+        "#ClaudeCode",
+        "#Coding",
+        "#TechInnovation"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude Code lets you delegate coding tasks directly from your browser.",
+          "bRoll": "Close-up of the Claude Code web interface with task delegation highlighted."
+        },
+        {
+          "sentence": "Now in beta, you can assign multiple coding tasks that run on Anthropic-managed cloud infrastructure.",
+          "bRoll": "Animation showing 'beta' tag and cloud infrastructure graphics."
+        },
+        {
+          "sentence": "Kick off coding sessions without opening your terminal - it’s that easy!",
+          "bRoll": "Screen recording of initiating a session on Claude Code with seamless transitions."
+        },
+        {
+          "sentence": "Each session runs in its own isolated environment with real-time progress tracking.",
+          "bRoll": "Visual of a progress bar filling up and a separate coding environment in action."
+        },
+        {
+          "sentence": "You can also use Claude Code on mobile for coding on the go!",
+          "bRoll": "Demo of the Claude Code iOS app in use, showing coding on a smartphone."
+        },
+        {
+          "sentence": "Every task operates securely with network restrictions to protect your code.",
+          "bRoll": "Graphic showing a locked shield overlay on code to signify security and protection."
+        },
+        {
+          "sentence": "Get started today at claude.com/code and revolutionize your coding workflow!",
+          "bRoll": "Final shot of the website landing page with the call-to-action visibly highlighted."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=bDVtN2lqNWJsdThxdWU1czFmZjlhOHR0cWcgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  },
+  {
+    "eventTitle": "YouTube Script: Build Smarter AI Agents with Skills",
+    "eventDate": "2025-10-29T15:00:00+01:00",
+    "topic": "Build Smarter AI Agents with Skills",
+    "script": {
+      "title": "Unlock AI Potential: Build Custom Skills!",
+      "mainConcept": "You can enhance Claude's abilities by creating custom Skills for your workflows.",
+      "hook": "Did you know you can customize AI with Skills to make it smarter?",
+      "cta": "Check out the full article to learn how to build your own Skills today!",
+      "hashtags": [
+        "#AI",
+        "#Customization",
+        "#Claude",
+        "#Skills"
+      ],
+      "scriptTable": [
+        {
+          "sentence": "Claude can use Skills to perform tasks more effectively.",
+          "bRoll": "Close-up of the Claude Skills capabilities interface showing example Skills."
+        },
+        {
+          "sentence": "Skills are folders containing instructions and resources Claude loads when relevant.",
+          "bRoll": "Visual of a folder structure being opened on a digital screen."
+        },
+        {
+          "sentence": "They streamline tasks like document creation and help with brand guidelines.",
+          "bRoll": "Quick cuts showing Claude creating a spreadsheet and a presentation."
+        },
+        {
+          "sentence": "Creating Skills is easy with the interactive 'skill-creator' tool.",
+          "bRoll": "Screen recording of the skill-creator in action with highlighted options."
+        },
+        {
+          "sentence": "Skills are portable and composable, meaning you can use them across applications.",
+          "bRoll": "Animation showing Skills being dragged between different Claude apps."
+        },
+        {
+          "sentence": "This allows Claude to work faster and handle tasks more efficiently.",
+          "bRoll": "Before-and-after comparison of task completion times with and without Skills."
+        }
+      ]
+    },
+    "calendarLink": "https://www.google.com/calendar/event?eid=MGo3YmY0ZDFrcmJkN3BuNnNvaXJrcmNpdDAgbXVlbGxlcmpvaGFubmVzOTNAbQ",
+    "success": true
+  }
+]
+-------------- END STEP: complete (0ms) --------------
+
